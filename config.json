@@ -1,0 +1,15 @@
+{
+	"Token": "ur token",
+	"Prefix": ">",
+
+	"Channel-Names": ["lerker was here"], 
+	"Server-Names": ["beamed by lerker"],
+	"Role-Names": ["@lerkerbeamedyou"],
+	"Reason": ["beamed by lerker", "lerker beamed me"],
+
+	"Spam": true,
+
+	"Webhook-Names": ["@lerkerbeamedyou", "get beamed by lerker retard"],
+	"Spam-Messages": ["@everyone LERKER WIZZED YOU", "@everyone LERKER  FUCKED YOUR SERVER"],
+	"Spam-Amount": 10000
+}
